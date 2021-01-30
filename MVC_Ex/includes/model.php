@@ -10,7 +10,7 @@ class userModel
 	protected $pass = '';
 
 	/*To establish connection*/
-	protected $pdo;
+	protected $pdo; //PHP Data Objects ( PDO )
 
 	/**
 		*@author Shawqy
